@@ -1,1 +1,1 @@
-printㄹㅇㅇㅇ
+print;
